@@ -6,35 +6,5 @@
   "producer": "Genki Kawamura",
   "studio": "CoMix Wave Films",
   "release_year": 2019,
-  "runtime_minutes": 112,
-  "genre": [
-    "Anime",
-    "Fantasy",
-    "Romance",
-    "Drama"
-  ],
-  "language": "Japanese",
-  "country": "Japan",
-  "main_characters": [
-    {
-      "name": "Hodaka Morishima",
-      "role": "Protagonist"
-    },
-    {
-      "name": "Hina Amano",
-      "role": "Female Lead"
-    }
-  ],
-  "plot_summary": "A high school boy who runs away to Tokyo befriends a girl who has the mysterious ability to control the weather, leading to emotional choices that affect the world around them.",
-  "themes": [
-    "Love",
-    "Fate",
-    "Sacrifice",
-    "Nature"
-  ],
-  "music_composer": "RADWIMPS",
-  "rating": {
-    "imdb": 7.5,
-    "rotten_tomatoes": "92%"
-  }
+  "runtime_minutes": 112
 }
