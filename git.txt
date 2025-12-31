@@ -5,5 +5,4 @@ deathnote
 naruto
 onepiece
 hxh
-sololeveling
-dora
+
